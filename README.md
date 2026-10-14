@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/imanjithdanidu04">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=506&text=Hey%20what's%20up" alt="Hey what&#39;s up" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=922&text=Hey%20I'm%20Danidu%20Rathnayaka." alt="Hey I&#39;m Danidu Rathnayaka." />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=460&height=44&lines=something%20is%20happening%20%20here" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=460&height=44&lines=something%20is%20happening%20%20here" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
