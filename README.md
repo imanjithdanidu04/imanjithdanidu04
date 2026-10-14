@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/imanjithdanidu04">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=986&text=Hello!%20I'm%20Imanjith%20Danidu.R" alt="Hello! I&#39;m Imanjith Danidu.R" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=986&text=Hello!%20I'm%20Imanjith%20Danidu.R" alt="Hey! I&#39;m Imanjith Danidu.R" />
   </a>
 </p>
 
